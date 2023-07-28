@@ -2,7 +2,7 @@
 Assignment Gallery cafe
 
 
-Hosted Link:
+Hosted Link: https://ankit64s.github.io/galleryCafe/
 
 Snap of index.html:
 
